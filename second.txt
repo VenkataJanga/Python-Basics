@@ -1,0 +1,2 @@
+This is second file 
+  Writing is completed for filename2.
